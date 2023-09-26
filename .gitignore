@@ -1,0 +1,13 @@
+*
+!*/
+# Allow .cs files
+!*.cs
+
+# Allow .csproj files
+!*.csproj
+
+# Allow .sln files
+!*.sln
+
+*/bin
+*/obj
